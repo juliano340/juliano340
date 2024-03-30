@@ -8,7 +8,7 @@ Sou um desenvolvedor fullstack apaixonado por construir e explorar tecnologias w
 - Estudando NestJS para criar aplicações backend mais eficientes e escaláveis.
 
 💼 **Experiência Profissional:**
-- Atuei como programador web na Agexcom (Agência Experimental de Comunicação da Unisinos) e atualmente como tester de sistemas na empresa Dataweb Tecnologia.
+- Atuei como programador web na Agexcom (Agência Experimental de Comunicação da Unisinos) e atualmente trabalho como tester de sistemas na empresa Dataweb Tecnologia.
 - Trabalho com desenvolvimento Fullstack JavaScript, utilizando tecnologias modernas como Node.js, React, e Next.js.
 - Experiência em design responsivo e desenvolvimento front-end utilizando Tailwind CSS.
 

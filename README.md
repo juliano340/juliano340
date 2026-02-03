@@ -1,32 +1,52 @@
-# Olá, eu sou Juliano! 👋
+# Olá, eu sou o Juliano Pereira! 👋
 
-Sou um desenvolvedor fullstack apaixonado por construir e explorar tecnologias web. Atualmente, estou focado em aprimorar minhas habilidades em JavaScript, especialmente com Node.js para o backend e React & Next.js para o frontend. Estou também mergulhando no mundo do Angular e TypeScript, buscando ampliar ainda mais meu arsenal de desenvolvimento.
+### 🚀 Desenvolvedor de Software | Transição de Carreira & Estratégia
 
-🌱 **Atualmente Estudando:**
-- Aprofundando meus conhecimentos em Angular para desenvolvimento frontend.
-- Explorando TypeScript para adicionar tipagem estática aos meus projetos JavaScript.
-- Estudando NestJS para criar aplicações backend mais eficientes e escaláveis.
+Sou graduado em **Sistemas para Internet** pela Unisinos, unindo uma sólida bagagem estratégica em **Marketing e Gestão Comercial** com a paixão pela resolução de problemas através do código. Atualmente, foco em construir aplicações eficientes e escaláveis, utilizando minha experiência prévia para entregar soluções que realmente geram valor ao negócio.
 
-💼 **Experiência Profissional:**
-- Já atuei como programador web na Agexcom (Agência Experimental de Comunicação da Unisinos) e na Dataweb Tecnologia.
-- Atualmente sou analista de suporte técnico na BLING/LWSA.
-- Trabalho com desenvolvimento Fullstack JavaScript/Typescript, utilizando tecnologias modernas como Node.js, React, e NextJS e NestJS. Tenho experiência profissional com C# e .NET.
-- Experiência em design responsivo e desenvolvimento front-end utilizando Boot Strap e Tailwind CSS.
+---
 
-🎓 **Educação:**
-- Cursando Sistemas para Internet - Unisinos.
-- MBA em Gestão Comercial e Marketing Digital - UNINTER
-- Técnologo em Marketing - UNINTER
+## 🛠️ Sobre Mim
 
-📂 **Projetos Destacados:**
-- **Projeto 1:** [https://github.com/juliano340/vagas-voluntarias](#)
-- **Projeto 2:** [https://github.com/juliano340/crud_angular_coder](#)
-- **Projeto 3:** [https://github.com/juliano340/buscador-cep](#)
-- **Projeto 4:** [https://github.com/juliano340/meu-link](#)
+* 🎓 **Educação:** Graduado em Sistemas para Internet (Unisinos), com background como Tecnólogo em Marketing e MBA em Gestão Comercial e Marketing Digital.
+* 👨‍💻 **Trajetória Tech:** Iniciei como Estagiário Web, passei pelo suporte técnico na Data Weber, evoluí para **QA (Testes de Software)** e consolidei minha atuação como **Desenvolvedor de Software**.
+* 🎯 **Foco Atual:** Desenvolvimento Fullstack, qualidade de código e arquitetura de sistemas.
+* 💡 **Diferencial:** Visão 360º do produto, desde a aquisição do cliente (Marketing) até a entrega técnica e testes de qualidade.
 
-**Nota:** Os links acima serão atualizados conforme eu concluo mais projetos que estou empolgado para compartilhar!
+---
 
-📫 **Como entrar em contato comigo:**
-- LinkedIn: [Juliano - LinkedIn](https://www.linkedin.com/in/juliano340/)
+## 💻 Skills Técnicas
 
-🚀 **Estou sempre explorando novas tecnologias e buscando desafios. Vamos conectar-nos e criar algo incrível juntos!**
+### Linguagens e Frameworks
+* **Backend:** C# (.NET), JavaScript / TypeScript.
+* **Frontend:** HTML5, CSS3, JavaScript (React/Vue).
+* **Mobile:** Desenvolvimento Web Responsivo.
+
+### Qualidade e Testes (QA)
+* Testes Exploratórios e Manuais.
+* Automação de Testes (Vivência em ambiente de desenvolvimento).
+* Report de bugs e garantia de qualidade (QA Mindset).
+
+### Ferramentas e Outros
+* Git / GitHub.
+* Gestão de Projetos (Metodologias Ágeis).
+* Marketing Digital & Growth Hacking.
+
+---
+
+## 📈 Experiência Recente
+
+**Data Weber**
+* **Software Developer:** Atuação direta no desenvolvimento de funcionalidades e manutenção de sistemas.
+* **QA / Software Tester:** Garantia de qualidade através de testes rigorosos antes da transição total para dev.
+* **Suporte Técnico:** Base fundamental para entender as dores do usuário final.
+
+---
+
+## 📫 Vamos conectar?
+
+[!["LinkedIn"](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL-AQUI)
+[!["Email"](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+
+---
+*“Transformando estratégias de negócio em linhas de código eficientes.”*

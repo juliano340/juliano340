@@ -9,7 +9,7 @@ Sou graduado em **Sistemas para Internet** pela Unisinos, unindo uma sólida bag
 ## 🛠️ Sobre Mim
 
 * 🎓 **Educação:** Graduado em Sistemas para Internet (Unisinos), com background como Tecnólogo em Marketing e MBA em Gestão Comercial e Marketing Digital.
-* 👨‍💻 **Trajetória Tech:** Iniciei como Estagiário Web, passei pelo suporte técnico na Data Weber, evoluí para **QA (Testes de Software)** e consolidei minha atuação como **Desenvolvedor de Software**.
+* 👨‍💻 **Trajetória Tech:** Iniciei como Estagiário Web, passei pelo suporte técnico na Dataweb, evoluí para **QA (Testes de Software)** e consolidei minha atuação como **Desenvolvedor de Software**.
 * 🎯 **Foco Atual:** Desenvolvimento Fullstack, qualidade de código e arquitetura de sistemas.
 * 💡 **Diferencial:** Visão 360º do produto, desde a aquisição do cliente (Marketing) até a entrega técnica e testes de qualidade.
 

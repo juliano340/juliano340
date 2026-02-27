@@ -1,35 +1,51 @@
-Juliano Pereira
+# Juliano Pereira
 
-Software Developer & QA
+Software Developer & QA  
 Visão sistêmica aplicada a produto, usuário e negócio.
 
-Sou formado em Sistemas para Internet pela Unisinos e atuo na interseção entre desenvolvimento, qualidade de software e entendimento de regras de negócio.
+---
 
-Tenho experiência prática como QA e Desenvolvedor, trabalhando próximo a times técnicos e áreas de negócio, sempre com foco em melhorar sistemas, processos e experiência do usuário.
+Sou formado em **Sistemas para Internet** pela Unisinos e atuo na interseção entre desenvolvimento, qualidade de software e entendimento de regras de negócio.
 
-Meu diferencial está na capacidade de:
+Tenho experiência prática como **QA e Desenvolvedor**, trabalhando próximo a times técnicos e áreas de negócio, sempre com foco em melhorar sistemas, processos e experiência do usuário.
 
-Entender o sistema como um todo, não apenas trechos de código
+Minha atuação combina visão técnica com entendimento estratégico, permitindo transformar demandas reais em soluções eficientes e sustentáveis.
 
-Traduzir necessidades de negócio em soluções técnicas
+---
 
-Garantir qualidade e estabilidade antes da entrega
+## 🧠 Abordagem Profissional
 
-Comunicar problemas e melhorias de forma clara
+- Entendimento profundo de regras de negócio  
+- Análise sistêmica de aplicações  
+- Qualidade e estabilidade antes da entrega  
+- Comunicação técnica clara entre áreas  
+- Melhoria contínua de software e processos  
 
-🧠 Interesses Técnicos
+---
 
-Arquitetura de aplicações web
+## ⚙️ Stack Técnica
 
-Qualidade de software e testes
+**Backend**  
+C# (.NET) · Node.js · APIs REST  
 
-APIs e integrações
+**Frontend**  
+Angular · TypeScript · Next.js  
 
-Evolução contínua de produto
+**Banco de Dados & ORM**  
+Entity Framework · Integrações corporativas  
 
-⚙️ Stack
+**Qualidade & Processos**  
+QA funcional · Testes exploratórios · Ambiente ágil  
 
-Backend: C#, .NET, Node.js
-Frontend: Angular, TypeScript, Next.js
-Banco de Dados e ORM: Entity Framework
-Metodologias Ágeis
+---
+
+## 🎯 Interesses
+
+Arquitetura de aplicações web  
+Qualidade de software  
+Evolução de produto  
+Integrações e sistemas corporativos  
+
+---
+
+> Construindo software com visão de produto, foco em qualidade e impacto real no negócio.
